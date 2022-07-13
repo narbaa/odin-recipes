@@ -1,4 +1,23 @@
-.cookedpic {
+img {
     max-width: 400px;
     height: auto;
+    display: block;
+    margin: 0 auto;
+
+}
+
+.mid {
+    text-align: center;
+}
+
+.homelink {
+    display: inline-block;
+}
+
+.homelink-box {
+    text-align: center;
+}
+
+a:visited {
+    color: black;
 }
